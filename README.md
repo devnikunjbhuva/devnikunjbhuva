@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/75971776/135149518-789bbe5c-ed66-43e5-9ad8-5627cef36933.png" height="300" align="left" alt="Computador" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 <br>
 <br>
-<h4>💻 "Bridging the digital divide with innovative web & desktop solutions." 🚀 <br> <br>
+<h4>💻"Bridging the digital divide with innovative web & desktop solutions."🚀 <br> <br>
 Let's collaborate and build a better digital future together! 🤝 
 </h4> 
 
